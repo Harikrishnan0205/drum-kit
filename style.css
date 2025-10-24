@@ -1,0 +1,7 @@
+.main-container div{
+border-width: 1px;
+padding: 10px;
+width: 100px;
+cursor: pointer;
+border-color: #a78bfa;
+}
